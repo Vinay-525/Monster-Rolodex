@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Vinay-525/Monster-Rolodex/static/css/main.45c275b2.chunk.css",
+    "main.js": "/Vinay-525/Monster-Rolodex/static/js/main.1207173f.chunk.js",
+    "main.js.map": "/Vinay-525/Monster-Rolodex/static/js/main.1207173f.chunk.js.map",
+    "runtime-main.js": "/Vinay-525/Monster-Rolodex/static/js/runtime-main.de40c7d3.js",
+    "runtime-main.js.map": "/Vinay-525/Monster-Rolodex/static/js/runtime-main.de40c7d3.js.map",
+    "static/js/2.9d7d2cbd.chunk.js": "/Vinay-525/Monster-Rolodex/static/js/2.9d7d2cbd.chunk.js",
+    "static/js/2.9d7d2cbd.chunk.js.map": "/Vinay-525/Monster-Rolodex/static/js/2.9d7d2cbd.chunk.js.map",
+    "index.html": "/Vinay-525/Monster-Rolodex/index.html",
+    "precache-manifest.d0298a8eadded498c6ee0ba8f5c86435.js": "/Vinay-525/Monster-Rolodex/precache-manifest.d0298a8eadded498c6ee0ba8f5c86435.js",
+    "service-worker.js": "/Vinay-525/Monster-Rolodex/service-worker.js",
+    "static/css/main.45c275b2.chunk.css.map": "/Vinay-525/Monster-Rolodex/static/css/main.45c275b2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de40c7d3.js",
+    "static/js/2.9d7d2cbd.chunk.js",
+    "static/css/main.45c275b2.chunk.css",
+    "static/js/main.1207173f.chunk.js"
+  ]
+}
